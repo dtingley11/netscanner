@@ -28,7 +28,7 @@ Clone the repository:
 ```pip install -r requirements.txt```
 
 # Usage
-Run the script and enter the target IP address range when prompted.
+Run the script and enter the target IP address range when prompted.MacOS and Linux users will need to run this as root.
 
 
 ```python netscan.py```
